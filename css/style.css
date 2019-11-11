@@ -249,7 +249,7 @@ footer p{
   }
 
   .containerproj .cubs-img{
-    margin-top: 5%;
+    margin-top: 3em;
   }
 
   .containerproj .mich{
@@ -286,7 +286,7 @@ footer p{
   }
 
   .containerproj p{
-    font-size: 1.5em;
+    font-size: 1.2em;
   }
 
 
@@ -316,6 +316,10 @@ footer p{
     font-size: 1.5em;
     margin-right: 10px;
     margin-left: 3%;
+  }
+
+  .containerproj p{
+    font-size: 1.4em;
   }
 
 
